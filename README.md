@@ -1,0 +1,1 @@
+This was code I wrote several years ago but never felt the need to upload to Github until recently. I probably would have used dictionaries and such to remove the large ammount of if statements. Would have loved to do more OOP but at the time GS didn't support OOP.
